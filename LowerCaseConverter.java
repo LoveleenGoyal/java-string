@@ -13,7 +13,7 @@ public class LowerCaseConverter {
                 result += ch; 
             }
         }
-        return result.toString();
+        return result;
     }
 
     // Method to compare two strings character by character
